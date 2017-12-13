@@ -1,0 +1,11 @@
+item string type
+1 portò w
+2 cane w
+3 alla w
+4 senza w
+5 scimmina w
+6 altru p
+7 sosca p
+8 sulto p
+9 ol p
+10 piro p
