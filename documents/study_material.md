@@ -4,7 +4,7 @@ Lezione 1
 Tecnologie 
 -----------
 
-Pandoc [[https://pandoc.org/]{.underline}](https://pandoc.org/)
+Pandoc [https://pandoc.org/](https://pandoc.org/)
 
 Git [[https://git-scm.com/]{.underline}](https://git-scm.com/)
 [[https://git-scm.com/videos]{.underline}](https://git-scm.com/videos)
