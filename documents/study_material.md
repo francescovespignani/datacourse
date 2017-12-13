@@ -71,59 +71,60 @@ Useful standards and tools
 Html5
 
 [https://www.w3schools.com/html/default.asp]
+
 xml
 
-[https://www.w3schools.com/xml/default.asp]{.underline}
+[https://www.w3schools.com/xml/default.asp]
 
 svg
 
-[https://www.w3schools.com/graphics/svg\_intro.asp]{.underline}
+[https://www.w3schools.com/graphics/svg\_intro.asp]
 
 latex
 
-[https://www.latex-project.org/]{.underline}
+[https://www.latex-project.org/]
 
 pandoc
 
-[https://pandoc.org/]{.underline}
+[https://pandoc.org/]
 
 ImageMagick
 
-[https://www.imagemagick.org/]](https://www.imagemagick.org/)
+[https://www.imagemagick.org/]]
 
 Knitr
 
-[https://cran.r-project.org/web/packages/knitr/index.html]](https://cran.r-project.org/web/packages/knitr/index.html)
+[https://cran.r-project.org/web/packages/knitr/index.html]]
 
 Jupyter
 
-[http://jupyter.org/]](http://jupyter.org/)
+[http://jupyter.org/]]
 
 Why latex is still popular?
 ---------------------------
 
 math
 
-[https://www.sharelatex.com/learn/Mathematical\_expressions]{.underline}
+[https://www.sharelatex.com/learn/Mathematical\_expressions]
 
 slides
 
 https://en.wikipedia.org/wiki/Beamer\_(LaTeX)
 
-[https://www.overleaf.com/gallery/tagged/presentation]{.underline}
+[https://www.overleaf.com/gallery/tagged/presentation]
 
 tikz
 
-[http://www.texample.net/tikz/examples/]{.underline}
+[http://www.texample.net/tikz/examples/]
 
 linguistics
 
-[https://www1.essex.ac.uk/linguistics/external/clmt/latex4ling/]{.underline}
+[https://www1.essex.ac.uk/linguistics/external/clmt/latex4ling/]
 
 bibliography
 
-[https://www.sharelatex.com/learn/Bibliography\_management\_with\_bibtex]{.underline}
+[https://www.sharelatex.com/learn/Bibliography\_management\_with\_bibtex]
 
 books
 
-[https://ctan.org/pkg/memoir]{.underline}
+[https://ctan.org/pkg/memoir]
