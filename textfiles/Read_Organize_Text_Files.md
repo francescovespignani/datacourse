@@ -3,7 +3,27 @@ How to read and organize text data
 F.V.
 December 14, 2017
 
-## R Markdown
+## Reading data in R
+
+This is a very infromal tutorial for non-programmer
+
+Usually R stores the *current state of affairs* in a file called .RData
+when you logout so you’ll find the variables of the previous session.
+
+When you write some piece of code you may forget something, like
+defining some variables that you have done in the terminal. To check
+evrything from sratch it is useful to delete all stuff that is currently
+in memory, this can be done with the following command:
+
+``` r
+rm(list=ls())
+```
+
+The files we want to read are in the folder named astudy and consist of
+lines delimited by newlines ([escape
+sequence](https://en.wikipedia.org/wiki/Escape_sequences_in_C) is \n)
+delimited by a special charather the tab ([escape
+sequence](https://en.wikipedia.org/wiki/Escape_sequences_in_C) is ‘\t’)
 
 This is an R Markdown document. Markdown is a simple formatting syntax
 for authoring HTML, PDF, and MS Word documents. For more details on
